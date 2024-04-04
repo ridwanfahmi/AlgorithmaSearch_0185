@@ -33,6 +33,11 @@ void LinearSearch()
 	char ch;
 	int ctr; //number of comparisons
 	int item;
+
+	do
+	{
+
+	} while ((ch == 'y') || (ch == 'Y'));
 }
 
 int main() {
