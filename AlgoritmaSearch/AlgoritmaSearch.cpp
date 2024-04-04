@@ -7,7 +7,10 @@ int i;
 
 void input()
 {
+	while (true)
+	{
 
+	}
 }
 
 int main() {
