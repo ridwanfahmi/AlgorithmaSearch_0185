@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int arr[];
+int arr[20];
 int n;
 int i;
 
@@ -74,6 +74,6 @@ void display()
 int main() 
 {
 	input();
-	LinearSearch;
-	display;
+	LinearSearch();
+	display();
 }
